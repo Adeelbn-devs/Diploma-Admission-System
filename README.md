@@ -341,6 +341,135 @@ Income Certificate / Rural Certificate (if applicable)
 | 5      | Cat-2A, 2B, Cat-3B (Above Limit)   | -----        | ₹ 4,270/-        |
 | 6      | SNQ (Supernumerary Quota)          | ₹ 6.0 Lakhs  | ₹ 1,330/-        |
 
+<h2>📝 Diploma Admission Form</h2>
+
+<img width="486" height="1170" alt="image" src="https://github.com/user-attachments/assets/5f7aea83-09d1-4964-854c-46f9fe4f7194" />
+
+📝 Diploma Admission Form - DACG Govt Polytechnic Chikkanagalur
+
+Complete Form Guide with Emojis
+Here's a comprehensive breakdown of the admission form with visual markers for easy navigation:
+
+<h3>👤 Section 1: Personal Information</h3>
+
+Field	Description
+1. SATS No	Your unique SATS identification number
+2. Action No	Application reference number
+3. Name	Full name as per official documents
+4. Mother's Name	Mother's full name
+5. Father's Name	Father's full name
+6. Date of Birth	DD-MM-YYYY format
+7. Gender	Male/Female/Other
+8. Nationality	Indian (pre-filled)
+9. Religion	Your religious affiliation
+
+<h3>🎓 Section 2: Educational Detailsz</h3>
+
+Field	Description
+10. Qualifying Exam	✓ SSLC or ✓ CBSE (select one)
+12. Native District Code	Code of your home district
+13. SSLC State Code	Code of state where SSLC was completed
+14. Years in Karnataka	Total years studied in Karnataka
+15. Rural Study?	○ Yes ○ No (1st-10th in rural area)
+16. Kannada Medium?	○ Yes ○ No (1st-10th in Kannada)
+
+<h3>⚠️ Section 3: Special Claims</h3>
+
+Field	Description
+17. 5-Year Rule Exemption?	○ Yes ○ No
+18. Exemption Clause Code	(If yes in 17)
+19. SNO Outsat Claim?	○ Yes ○ No
+20. Hyderabad Karnataka Claim?	○ Yes ○ No
+21. Special Category?	○ Yes ○ No
+
+<h3>📊 Section 4: Marks & Category</h3>
+
+Field	Description
+22. Reserved Category Code	(If applicable)
+23. Caste Name	Your caste
+24. Annual Income	Family income in ₹
+25a. SSLC Register No	Official registration number
+25b. Year of Passing	SSLC completion year
+Marks Obtained	
+↳ Total Marks	Actual/Cut-off: ✔✔✔
+↳ Science Marks	Actual/Max: ○○/100
+↳ Maths Marks	Actual/Max: ○○/100
+↳ Science+Maths	Actual/Max: ○○/200
+
+<h3>📬 Section 5: Contact & Course</h3>
+
+Field	Description
+26. Student Mobile No	Your contact number
+27. Address	Full residential address
+28. Parent Mobile No	Parent's contact
+29. Email	Active email address
+30. PIN Code	6-digit postal code
+31. Course Name	Diploma program applying for
+32. Institution Code	College code (auto-filled?)
+33. College Name	DACG Govt Polytechnic Chikkanagalur
+
+<h3>✍️ Section 6: Signatures & Submission</h3>
+
+Field	Description
+34. Candidate Signature	Digital/Scanned signature
+35. Parent Signature	Digital/Scanned signature
+36. Parent Signature	(Duplicate field)
+38. Submission Date	Auto-generated on submit
+
+<h3>📎 Section 7: Document Upload (Critical!)</h3>
+
+Upload clear scans of:
+
+37. SSLC Marks Card
+
+38. Student Photo (Passport-size)
+
+39. Transfer Certificate
+
+40. Caste Certificate
+
+41. Income Certificate
+
+42. Study Certificate
+
+43. Kannada Medium Certificate
+
+44. Rural Quota Certificate
+
+45. Special Quota Certificate
+
+46. Aadhaar Card
+
+<h3>https://upload-section.png</h3>
+
+<h3>🔍 Click [Choose File] next to each document to upload</h3>
+
+<h3>✅ Final Submission</h3>
+
+Click "Submit Question" button after:
+
+Filling all fields
+
+Uploading all 10 documents
+
+Verifying information accuracy
+
+<h3>💡 Important Notes</h3>
+
+Red Asterisk (*) fields are mandatory
+
+Acceptable formats: PDF, JPG, PNG (max 2MB/file)
+
+Keep application number safe for future reference
+
+Incomplete forms will be rejected automatically
+
+<h3>🚀 Pro Tip: Double-check marks entries and document clarity before submission!</h3>
+
+<h3>Need Help?
+Contact admission office:
+📞 +91-XXX-XXXXXXX | ✉️ admissions@dacgpoly.edu.in</h3>
+
 <h2>📋 Document Verification</h2>
 
 <img width="485" height="366" alt="image" src="https://github.com/user-attachments/assets/80ee2a6d-b9cd-4e15-9d18-87a07c4320b5" />
@@ -348,10 +477,10 @@ Income Certificate / Rural Certificate (if applicable)
 This page allows administrators to verify student documents for registration. Below is a complete guide to using this interface.
 
 <h3>👨‍🎓 Student Information</h3>
-- **S&LC Register No:** 3999999999
+- **S&LC Register No:** 399998******
 - **Name:** Aold
-- **Phone:** 8716146995
-- **Marks Obtained:** 671
+- **Phone:** 8716******
+- **Marks Obtained:** 625
 
 <h3>📝 Document Verification Instructions</h3>
 1. **Verify each document** by selecting the appropriate radio button:
@@ -374,6 +503,7 @@ This page allows administrators to verify student documents for registration. Be
 | Kannada Medium Eligibility        | ● No (Not verified)              | Xxxx Kannada Medium Eligibility |
 
 <h4>📄 Section 2: Additional Certificates</h4>
+
 | Document Name                     | Action Required                  | View Document Link           |
 |-----------------------------------|----------------------------------|------------------------------|
 | Rural Others Eligibility          | ○ No (Not verified)              | New Data Outdo Eligibility   |
@@ -391,3 +521,4 @@ After verifying ALL documents:
 - Documents marked ● Yes will be approved
 - Any ● No selections will block registration
 - Preview documents using the "Xxxx..." or "New..." links before verification
+
