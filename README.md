@@ -524,7 +524,7 @@ This page displays student marks data in a structured table format. Here's exact
 
 |Column Name	           |Sample Data	                  |Description                                             |
 |----------------------- | ---------------------------- |------------------------------------------------------- |
-|SELC Register	         |111111	                      |Student's unique registration number                    |
+|SELC Register	         |111******	                    |Student's unique registration number                    |
 |Science & Maths Total	 |116	                          |Combined maximum marks for Science & Maths subjects     |
 |Marks Obtained	         |621	                          |Actual marks student scored                             |
 |Percentage	             |69.36%	                      |Automatic percentage calculation                        |
@@ -549,14 +549,38 @@ This page displays student marks data in a structured table format. Here's exact
 
 |Field	                   |Example Data	                |Description                                    |
 |--------------------------|------------------------------|-----------------------------------------------|
-|SELL Register Number	     |99999999	                    |SSLC registration ID                           |
-|Name	                     |840	                          |Student's full name                            |
+|SELL Register Number	     |9999****	                    |SSLC registration ID                           |
+|Name	                     |Adeel                         |Student's full name                            |
 |Date of Birth	           |13-06-2025	                  |Birth date (DD-MM-YYYY)                        |
 |Gender	                   |80%	                          |Gender (data appears corrupted)                |
-|Father Name	             |180	                          |Father's full name                             |
+|Father Name	             |ibndiusd	                    |Father's full name                             |
 |Student Preferred Branch	 |15	                          |Code of preferred course branch                |
 |Uploaded photo	           |uploads/am_809	              |Path to student's photo                        |
-|Branch Allocated	         |C8	                          |Actually allocated branch code                 |
-|Allocated Category	       |3%	                          |Reservation category (data appears corrupted)  |
+|Branch Allocated	         |CS	                          |Actually allocated branch code                 |
+|Allocated Category	       |3b	                          |Reservation category (data appears corrupted)  |
 |Fees Paid Receipt	       |1700	                        |Fee amount paid                                |
 |Receipt Number	           |14	                          |Payment transaction ID                         |
+
+<h2>✅ Seat Allotment Confirmation</h2>
+
+<img width="1900" height="946" alt="23 Seat_allotted_Successfully" src="https://github.com/user-attachments/assets/9bbb819b-c611-4950-abc9-da8b98a04638" />
+
+This screen appears after successful seat allotment to a student. It confirms the admission details and displays key allocation information.
+
+<h3>Confirmation Message
+"Seat Successfully Allotted"</h3>
+
+<h3>🧑‍🎓Student Allocation Details</h3>
+
+|Field	              |Example Data	      |Description                            |
+|---------------------|-------------------|---------------------------------------|
+|Name	                |Adeel              |Student's full name                    |
+|Branch Allocated	    |1	                |Code of assigned academic branch       |
+|Allocated Category	  |2b	                |Reservation category (e.g., 2B = OBC)  |
+|Fees Paid Receipt	  |1260	              |Payment receipt number                 |
+|Uploaded photo	      |(JPG)	            |Photo status (empty if not uploaded)   |
+
+<h4>🎬Action Button
+Back to Seat Allotment (click to return to allocation dashboard)</h4>
+
+
