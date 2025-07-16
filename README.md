@@ -686,8 +686,68 @@ This interface displays real-time seat availability across academic branches, ca
 • BRO/SNQ seats consistent (5 seats), except ME (6)
 
 <h3>Utilization Patterns:</h3>
-pie showData  
-    title Seat Type Distribution  
-    "Government" : 328  
-    "Donor" : 12  
-    "BRO/SNQ" : 31  
+  
+<img width="1950" height="1350" alt="pie diagram" src="https://github.com/user-attachments/assets/02d98642-7877-4ba8-8f03-7b8f2e6544bb" />
+
+<h2>📋 All Students' Certificate Verification</h2>
+
+<img width="1907" height="942" alt="26 All_Students_Certificates_Verified" src="https://github.com/user-attachments/assets/6c85679d-3a14-498d-bcbf-b7f96cfebd4f" />
+
+This interface displays complete document verification status for all students. Administrators can:
+  • View real-time verification status of 10 critical documents
+  • Filter students by SSLC registration number
+  • Identify pending verifications at a glance
+
+<h3>📊 Verification Status </h3>
+
+|Column	                      |Description	            |Values        |
+|-----------------------------|-------------------------|--------------|
+|SSLC Register	              |Unique student ID	      |111111        |
+|Name	                        |Student full name	      |ADEEL         |
+|Phone Number	                |Contact number	          |87959*****    |
+|SSLC Marks Card	            |Marksheet status	        |Yes/No        |
+|Transfer Certificate	        |TC verification	        |Yes/No        |
+|Caste Certificate	          |Caste proof	            |Yes/No        |
+|Income Certificate	          |Income proof	            |Yes/No        |
+|Study Certificate	          |Study continuity	        |Yes/No        |
+|Kannada Medium Eligibility	  |Language proof	          |Yes/No        |
+|Rural Quota Eligibility	    |Rural residence proof	  |Yes/No        |
+|Special Quota Eligibility	  |Special category proof	  |Yes/No        |
+|Aadhaar Card	                |Identity proof	          |Yes/No        |
+
+<h3>🛠️ How to Use This Page</h3>
+
+<h4>1.Search Students</h4>
+  • Enter SSLC number in search box
+  • Click [Save] to filter records
+
+<h4>2.Interpret Verification Status</h4>
+  ✅ Yes: Document verified and approved
+  ❌ No: Document missing/rejected
+
+<h2>📊 Seat Allotment Count DateWise</h2>
+
+<img width="1875" height="944" alt="27 Seat_Allotment_Count_DateWise" src="https://github.com/user-attachments/assets/556ae404-3470-4be3-9215-5bd655ac4fd7" />
+
+This interface displays daily seat allocation statistics, showing branch-wise admission counts for any selected date.
+
+<h3>📅 Date Selection Section</h3>
+
+## Seat Allotment Count  
+- **Seat Date**: [08-07-2025]  - [Show Count]
+  
+<h3>Seat Allotment on 2025-07-08</h3>
+ 
+| Branch Allocated | Count |  
+|------------------|-------|  
+| CS               | 50    |  
+| EC               | 26    |  
+| EE               | 23    |  
+| CE               | 40    |  
+| AT               | 32    |  
+| ME               | 15    |  
+
+<h4>Step 1: Select Date</h4>
+  • Click the date field next to "Seat Date"
+  • Choose your desired date using the calendar picker
+    (Format: DD-MM-YYYY)
