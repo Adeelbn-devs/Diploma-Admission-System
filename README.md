@@ -377,95 +377,84 @@ Here's a comprehensive breakdown of the admission form with visual markers for e
 
 <h3>⚠️ Section 3: Special Claims</h3>
 
-Field	                          Description  
-17. 5-Year Rule Exemption?	    ○ Yes ○ No  
-18. Exemption Clause Code	      (If yes in 17)  
-19. SNO Outsat Claim?	          ○ Yes ○ No  
-20. Hyderabad Karnataka Claim?	○ Yes ○ No  
-21. Special Category?	          ○ Yes ○ No  
+|Field	                          |  Description     |
+|  -------------------------------|------------------|
+|17. 5-Year Rule Exemption?	      |○ Yes ○ No        |
+|18. Exemption Clause Code	      |(If yes in 17)    |
+|19. SNO Outsat Claim?	          |○ Yes ○ No        |
+|20. Hyderabad Karnataka Claim?	  |○ Yes ○ No        |
+|21. Special Category?	          |○ Yes ○ No        |
 
 <h3>📊 Section 4: Marks & Category</h3>
 
-Field	                          Description  
-22. Reserved Category Code	    (If applicable)  
-23. Caste Name	                Your caste  
-24. Annual Income	              Family income in ₹  
-25a. SSLC Register No	          Official registration number  
-25b. Year of Passing	          SSLC completion year  
+|Field	                        |   Description                 |
+| ------------------------------|-------------------------------|                              
+|22. Reserved Category Code	    |(If applicable)                |
+|23. Caste Name	                |Your caste                     |
+|24. Annual Income	            |Family income in ₹             |
+|25a. SSLC Register No	        |Official registration number   |
+|25b. Year of Passing	          |SSLC completion year           |
 
-Marks Obtained	
-↳ Total Marks	      Actual/Cut-off: ✔✔✔  
-↳ Science Marks	    Actual/Max: ○○/100  
-↳ Maths Marks	      Actual/Max: ○○/100  
-↳ Science+Maths	    Actual/Max: ○○/200  
+|Marks Obtained	      |                      |
+|  ------------------ | -------------------- |
+|↳ Total Marks	      |Actual/Cut-off: ✔✔✔  |
+|↳ Science Marks	    |Actual/Max: ○○/100    |
+|↳ Maths Marks	      |Actual/Max: ○○/100    |
+|↳ Science+Maths	    |Actual/Max: ○○/200    |
 
 <h3>📬 Section 5: Contact & Course</h3>
 
-Field	                      Description  
-26. Student Mobile No	      Your contact number  
-27. Address	                Full residential address  
-28. Parent Mobile No	      Parent's contact  
-29. Email	                  Active email address  
-30. PIN Code	              6-digit postal code  
-31. Course Name	            Diploma program applying for  
-32. Institution Code	      College code (auto-filled?)  
-33. College Name	          DACG Govt Polytechnic Chikkanagalur  
+|Field	                    |  Description                        |
+|---------------------------|-------------------------------------|
+|26. Student Mobile No	    |Your contact number                  |
+|27. Address	              |Full residential address             |
+|28. Parent Mobile No	      |Parent's contact                     |
+|29. Email	                |Active email address                 |
+|30. PIN Code	              |6-digit postal code                  |
+|31. Course Name	          |Diploma program applying for         |
+|32. Institution Code	      |College code (auto-filled?)          |
+|33. College Name	          |DACG Govt Polytechnic Chikkanagalur  |
 
 <h3>✍️ Section 6: Signatures & Submission</h3>
 
-Field	                      Description  
-34. Candidate Signature	    Digital/Scanned signature  
-35. Parent Signature	      Digital/Scanned signature  
-36. Parent Signature	      (Duplicate field)  
-38. Submission Date	        Auto-generated on submit  
+|Field	                    |  Description              |
+|---------------------------|---------------------------|
+|34. Candidate Signature	  |Digital/Scanned signature  |
+|35. Parent Signature	      |Digital/Scanned signature  |
+|36. Parent Signature	      |(Duplicate field)          |
+|38. Submission Date	      |Auto-generated on submit   |
 
 <h3>📎 Section 7: Document Upload (Critical!)</h3>
 
-Upload clear scans of:
-
-37. SSLC Marks Card
-
-38. Student Photo (Passport-size)
-
-39. Transfer Certificate
-
-40. Caste Certificate
-
-41. Income Certificate
-
-42. Study Certificate
-
-43. Kannada Medium Certificate
-
-44. Rural Quota Certificate
-
-45. Special Quota Certificate
-
-46. Aadhaar Card
+|Upload clear scans of:               |
+| ----------------------------------- |
+|37. SSLC Marks Card                  |
+|38. Student Photo (Passport-size)    |
+|39. Transfer Certificate             |
+|40. Caste Certificate                |
+|41. Income Certificate               |
+|42. Study Certificate                |
+|43. Kannada Medium Certificate       |
+|44. Rural Quota Certificate          |
+|45. Special Quota Certificate        |
+|46. Aadhaar Card                     |
 
 <h3>https://upload-section.png</h3>
-
-<h3>🔍 Click [Choose File] next to each document to upload</h3>
+<h4>🔍 Click [Choose File] next to each document to upload</h4>
 
 <h3>✅ Final Submission</h3>
-
 Click "Submit Question" button after:
 
-Filling all fields
-
-Uploading all 10 documents
-
-Verifying information accuracy
+1.Filling all fields
+2.Uploading all 10 documents
+3.Verifying information accuracy
 
 <h3>💡 Important Notes</h3>
 
-Red Asterisk (*) fields are mandatory
-
-Acceptable formats: PDF, JPG, PNG (max 2MB/file)
-
-Keep application number safe for future reference
-
-Incomplete forms will be rejected automatically
+⁌ Red Asterisk (*) fields are mandatory
+⁌ Acceptable formats: PDF, JPG, PNG (max 2MB/file)
+⁌ Keep application number safe for future reference
+⁌ Incomplete forms will be rejected automatically
 
 <h3>🚀 Pro Tip: Double-check marks entries and document clarity before submission!</h3>
 
