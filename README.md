@@ -340,3 +340,54 @@ Income Certificate / Rural Certificate (if applicable)
 | 4      | Cat-2A/3A/3B (Income ≤ ₹2.5 Lakhs) | ₹ 2.5 Lakhs  | ₹ 960/-          |
 | 5      | Cat-2A, 2B, Cat-3B (Above Limit)   | -----        | ₹ 4,270/-        |
 | 6      | SNQ (Supernumerary Quota)          | ₹ 6.0 Lakhs  | ₹ 1,330/-        |
+
+<h2>📋 Document Verification</h2>
+
+<img width="485" height="366" alt="image" src="https://github.com/user-attachments/assets/80ee2a6d-b9cd-4e15-9d18-87a07c4320b5" />
+
+This page allows administrators to verify student documents for registration. Below is a complete guide to using this interface.
+
+<h3>👨‍🎓 Student Information</h3>
+- **S&LC Register No:** 3999999999
+- **Name:** Aold
+- **Phone:** 8716146995
+- **Marks Obtained:** 671
+
+<h3>📝 Document Verification Instructions</h3>
+1. **Verify each document** by selecting the appropriate radio button:
+   - ● Yes : Document is verified and acceptable
+   - ○ No : Document is missing/invalid
+2. **View documents** by clicking the text link below each document name
+3. **Submit** the form after verifying all documents
+
+<h3>📋 Document List & Verification Status</h3>
+
+<h4>📜 Section 1: Core Documents</h4>
+
+| Document Name                     | Action Required                  | View Document Link           |
+|-----------------------------------|----------------------------------|------------------------------|
+| S&LC Marke Card                   | ● Yes (Verified)                 | Xxxx S&LC Marke Card         |
+| Transfer Certificate              | ● Yes (Verified)                 | Xxxx Transfer Certificate    |
+| Caste Certificate                 | ● Yes (Verified)                 | Xxxx Transfer Certificate*   |
+| Income Certificate                | ● Yes (Verified)                 | Xxxx Income Certificate      |
+| Study Certificate                 | ● Yes (Verified)                 | Xxxx Study Certificate       |
+| Kannada Medium Eligibility        | ● No (Not verified)              | Xxxx Kannada Medium Eligibility |
+
+<h4>📄 Section 2: Additional Certificates</h4>
+| Document Name                     | Action Required                  | View Document Link           |
+|-----------------------------------|----------------------------------|------------------------------|
+| Rural Others Eligibility          | ○ No (Not verified)              | New Data Outdo Eligibility   |
+| Special Others Eligibility        | ● Yes (Verified)                 | New Special Outdo Eligibility|
+| Aadhaar Card                      | ● Yes (Verified)                 | New Account Card             |
+| Student Photo                     | ● Yes (Verified)                 | New Student Photo            |
+
+<h3>✅ Final Submission</h3>
+After verifying ALL documents:
+1. Review all selections
+2. Click **SUBMIT** button (not shown in screenshot)
+3. System will save responses and process registration
+
+<h3>⚠️ **Critical Notes**:</h3>
+- Documents marked ● Yes will be approved
+- Any ● No selections will block registration
+- Preview documents using the "Xxxx..." or "New..." links before verification
