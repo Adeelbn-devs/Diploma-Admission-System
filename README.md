@@ -69,7 +69,7 @@ This section provides in-depth information about the selected department — her
 - “Go to Lecture Details” – View assigned lectures/faculty
 - “Go Back to Branches” – Return to main branch list
 
-4️⃣ 👨‍🏫 CSE Staff Details
+<h1>4️⃣ 👨‍🏫 CSE Staff Details</h1>
 
 <img width="937" height="909" alt="4 Computer_Science_Staff_Details" src="https://github.com/user-attachments/assets/4d310b00-612a-49c4-ab53-e8d948aa8f68" />
 
