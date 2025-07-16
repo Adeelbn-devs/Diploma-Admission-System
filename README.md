@@ -1,4 +1,4 @@
-<img width="937" height="909" alt="4 Computer_Science_Staff_Details" src="https://github.com/user-attachments/assets/2f9207ba-ddca-46c9-b82d-f2f4cef519f4" />🎓 Diploma Admission System – Project Overview
+🎓 Diploma Admission System – Project Overview
 
 A complete web-based Diploma Admission System, designed for streamlining the admission process in polytechnic colleges. Built using PHP, MySQL, HTML, CSS, Bootstrap, and designed to work within XAMPP environment.
 
