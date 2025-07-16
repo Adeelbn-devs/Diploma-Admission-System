@@ -351,7 +351,7 @@ Complete Form Guide with Emojis
 Here's a comprehensive breakdown of the admission form with visual markers for easy navigation:
 
 <h3>👤 Section 1: Personal Information</h3>
-
+<pre>
 Field	              Description<br>
 1. SATS No	        Your unique SATS identification number<br>
 2. Action No	      Application reference number<br>
@@ -463,7 +463,7 @@ Acceptable formats: PDF, JPG, PNG (max 2MB/file)
 
 Keep application number safe for future reference
 
-Incomplete forms will be rejected automatically
+Incomplete forms will be rejected automatically </pre>
 
 <h3>🚀 Pro Tip: Double-check marks entries and document clarity before submission!</h3>
 
