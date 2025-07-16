@@ -514,3 +514,49 @@ After verifying ALL documents:
 - Any ● No selections will block registration
 - Preview documents using the "Xxxx..." or "New..." links before verification
 
+<h2>📝 View Marks</h2>
+
+<img width="1907" height="948" alt="20 View_marks" src="https://github.com/user-attachments/assets/b7f09e54-4d7b-4928-95f9-25d6cfc3b90a" />
+
+This page displays student marks data in a structured table format. Here's exactly what you see:
+
+<h3>Marks Data</h3>
+
+|Column Name	           |Sample Data	                  |Description                                             |
+|----------------------- | ---------------------------- |------------------------------------------------------- |
+|SELC Register	         |111111	                      |Student's unique registration number                    |
+|Science & Maths Total	 |116	                          |Combined maximum marks for Science & Maths subjects     |
+|Marks Obtained	         |621	                          |Actual marks student scored                             |
+|Percentage	             |69.36%	                      |Automatic percentage calculation                        |
+|Submission Date	       |2025-04-22	                  |Date when marks were submitted                          |
+|Marks Card	             |New Marks Card	              |Link to view/download marks card document               |
+|Action	                 |CKD to Start Alignment	      |Next required verification step                         |
+
+<h3>🔍 Page Functionality</h3>
+1.View Marks Cards:
+  • Click "New Marks Card" to open/download the document
+2.Start Verification Process:
+  • Click "CKD to Start Alignment" to begin document scanning/alignment
+3.Navigate to Seat Allotment:
+  • A "Seat Allotment" button (not shown in screenshot) appears below the table
+  • Click it to proceed directly to seat assignment process
+
+<h2>🔍 Student Seat Allotment Details</h2>
+
+<img width="1905" height="948" alt="22 Fetch_Details" src="https://github.com/user-attachments/assets/53b30d90-cf14-40aa-bb94-a8ca4704ea60" />
+
+<h3>🧑‍🎓 Student Details Section</h3>
+
+|Field	                   |Example Data	                |Description                                    |
+|--------------------------|------------------------------|-----------------------------------------------|
+|SELL Register Number	     |99999999	                    |SSLC registration ID                           |
+|Name	                     |840	                          |Student's full name                            |
+|Date of Birth	           |13-06-2025	                  |Birth date (DD-MM-YYYY)                        |
+|Gender	                   |80%	                          |Gender (data appears corrupted)                |
+|Father Name	             |180	                          |Father's full name                             |
+|Student Preferred Branch	 |15	                          |Code of preferred course branch                |
+|Uploaded photo	           |uploads/am_809	              |Path to student's photo                        |
+|Branch Allocated	         |C8	                          |Actually allocated branch code                 |
+|Allocated Category	       |3%	                          |Reservation category (data appears corrupted)  |
+|Fees Paid Receipt	       |1700	                        |Fee amount paid                                |
+|Receipt Number	           |14	                          |Payment transaction ID                         |
