@@ -321,6 +321,7 @@ Income Certificate / Rural Certificate (if applicable)
 <img width="1872" height="952" alt="16 Fees_Structure" src="https://github.com/user-attachments/assets/b589ae20-2cc2-4d4e-b376-3406696ffadb" />
 
 <h3>📊 Polytechnic-wise Fee Structure</h3>
+
 | Sl. No | Polytechnic Type                             | Tuition Fee | Development Fee | Other Fee | Total Fee  |
 | ------ | -------------------------------------------- | ----------- | --------------- | --------- | ---------- |
 | 1      | Government Polytechnic                       | ₹ 2,940/-   | ₹ 500/-         | ₹ 830/-   | ₹ 4,270/-  |
@@ -329,6 +330,7 @@ Income Certificate / Rural Certificate (if applicable)
 | 4      | Private Polytechnic (Non-Karnataka Students) | ₹ 19,425/-  | ₹ 500/-         | ₹ 830/-   | ₹ 20,755/- |
 
 <h3>🏛️ Government Polytechnic Fee Structure (Category-wise)</h3>
+
 | Sl. No | Category                           | Income Limit | Total Fee to Pay |
 | ------ | ---------------------------------- | ------------ | ---------------- |
 | 1      | General                            | -----        | ₹ 4,270/-        |
