@@ -351,71 +351,73 @@ Complete Form Guide with Emojis
 Here's a comprehensive breakdown of the admission form with visual markers for easy navigation:
 
 <h3>👤 Section 1: Personal Information</h3>
-<pre>
-Field	              Description<br>
-1. SATS No	        Your unique SATS identification number<br>
-2. Action No	      Application reference number<br>
-3. Name	            Full name as per official documents<br>
-4. Mother's Name	  Mother's full name<br>
-5. Father's Name	  Father's full name<br
-6. Date of Birth	  DD-MM-YYYY format<br>
-7. Gender	          Male/Female/Other<br>
-8. Nationality	    Indian (pre-filled)<br>
-9. Religion	        Your religious affiliation<br>
+
+|  Field	          |  Description                           |
+| ----------------- | -------------------------------------- |
+|1. SATS No	        |Your unique SATS identification number  |
+|2. Action No	      |Application reference number            |
+|3. Name	          |Full name as per official documents     |
+|4. Mother's Name	  |Mother's full name                      |
+|5. Father's Name	  |Father's full name                      |
+|6. Date of Birth	  |DD-MM-YYYY format                       |
+|7. Gender	        |Male/Female/Other                       |
+|8. Nationality	    |Indian (pre-filled)                     |
+|9. Religion	      |Your religious affiliation              |
 
 <h3>🎓 Section 2: Educational Detailsz</h3>
 
-Field	                       Description<br>
-10. Qualifying Exam	         ✓ SSLC or ✓ CBSE (select one)<br>
-12. Native District Code	   Code of your home district<br>
-13. SSLC State Code        	 Code of state where SSLC was completed<br>
-14. Years in Karnataka	     Total years studied in Karnataka<br>
-15. Rural Study?	           ○ Yes ○ No (1st-10th in rural area)<br>
-16. Kannada Medium?	         ○ Yes ○ No (1st-10th in Kannada)<br>
+|Field	                     |  Description                              |
+|  ------------------------- | ----------------------------------------- |
+|10. Qualifying Exam	       |SSLC  or CBSE (select one)                 |
+|12. Native District Code	   |Code of your home district                 |
+|13. SSLC State Code         |Code of state where SSLC was completed     |
+|14. Years in Karnataka	     |Total years studied in Karnataka           |
+|15. Rural Study?	           |○ Yes ○ No (1st-10th in rural area)        |
+|16. Kannada Medium?	       |○ Yes ○ No (1st-10th in Kannada)           |
 
 <h3>⚠️ Section 3: Special Claims</h3>
 
-Field	                          Description<br>
-17. 5-Year Rule Exemption?	    ○ Yes ○ No<br>
-18. Exemption Clause Code	      (If yes in 17)<br>
-19. SNO Outsat Claim?	          ○ Yes ○ No<br>
-20. Hyderabad Karnataka Claim?	○ Yes ○ No<br>
-21. Special Category?	          ○ Yes ○ No<br>
+Field	                          Description  
+17. 5-Year Rule Exemption?	    ○ Yes ○ No  
+18. Exemption Clause Code	      (If yes in 17)  
+19. SNO Outsat Claim?	          ○ Yes ○ No  
+20. Hyderabad Karnataka Claim?	○ Yes ○ No  
+21. Special Category?	          ○ Yes ○ No  
 
 <h3>📊 Section 4: Marks & Category</h3>
 
-Field	                          Description<br>
-22. Reserved Category Code	    (If applicable)<br>
-23. Caste Name	                Your caste<br>
-24. Annual Income	              Family income in ₹<br>
-25a. SSLC Register No	          Official registration number<br>
-25b. Year of Passing	          SSLC completion year<br>
+Field	                          Description  
+22. Reserved Category Code	    (If applicable)  
+23. Caste Name	                Your caste  
+24. Annual Income	              Family income in ₹  
+25a. SSLC Register No	          Official registration number  
+25b. Year of Passing	          SSLC completion year  
 
 Marks Obtained	
-↳ Total Marks	      Actual/Cut-off: ✔✔✔<br>
-↳ Science Marks	    Actual/Max: ○○/100<br>
-↳ Maths Marks	      Actual/Max: ○○/100<br>
-↳ Science+Maths	    Actual/Max: ○○/200<br>
+↳ Total Marks	      Actual/Cut-off: ✔✔✔  
+↳ Science Marks	    Actual/Max: ○○/100  
+↳ Maths Marks	      Actual/Max: ○○/100  
+↳ Science+Maths	    Actual/Max: ○○/200  
 
 <h3>📬 Section 5: Contact & Course</h3>
 
-Field	                      Description<br>
-26. Student Mobile No	      Your contact number<br>
-27. Address	                Full residential address<br>
-28. Parent Mobile No	      Parent's contact<br>
-29. Email	                  Active email address<br>
-30. PIN Code	              6-digit postal code<br>
-31. Course Name	            Diploma program applying for<br>
-32. Institution Code	      College code (auto-filled?)<br>
-33. College Name	          DACG Govt Polytechnic Chikkanagalur<br>
+Field	                      Description  
+26. Student Mobile No	      Your contact number  
+27. Address	                Full residential address  
+28. Parent Mobile No	      Parent's contact  
+29. Email	                  Active email address  
+30. PIN Code	              6-digit postal code  
+31. Course Name	            Diploma program applying for  
+32. Institution Code	      College code (auto-filled?)  
+33. College Name	          DACG Govt Polytechnic Chikkanagalur  
 
 <h3>✍️ Section 6: Signatures & Submission</h3>
 
-Field	                      Description<br>
-34. Candidate Signature	    Digital/Scanned signature<br>
-35. Parent Signature	      Digital/Scanned signature<br>
-36. Parent Signature	      (Duplicate field)<br>
-38. Submission Date	        Auto-generated on submit<br>
+Field	                      Description  
+34. Candidate Signature	    Digital/Scanned signature  
+35. Parent Signature	      Digital/Scanned signature  
+36. Parent Signature	      (Duplicate field)  
+38. Submission Date	        Auto-generated on submit  
 
 <h3>📎 Section 7: Document Upload (Critical!)</h3>
 
@@ -463,7 +465,7 @@ Acceptable formats: PDF, JPG, PNG (max 2MB/file)
 
 Keep application number safe for future reference
 
-Incomplete forms will be rejected automatically </pre>
+Incomplete forms will be rejected automatically
 
 <h3>🚀 Pro Tip: Double-check marks entries and document clarity before submission!</h3>
 
