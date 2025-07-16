@@ -1,0 +1,20 @@
+{
+    "name": "yourvendor/final_project",
+    "description": "A project to send emails using PHPMailer and OAuth2",
+    "require": {
+        "php": ">=8.0.0",
+        "league/oauth2-client": "^2.6",
+        "league/oauth2-google": "^3.0",
+        "phpmailer/phpmailer": "^6.5"
+    },
+    "config": {
+        "platform": {
+            "php": "8.0.30"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "FinalProject\\": "src/"
+        }
+    }
+}
