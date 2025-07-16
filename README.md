@@ -751,3 +751,48 @@ This interface displays daily seat allocation statistics, showing branch-wise ad
   • Click the date field next to "Seat Date"
   • Choose your desired date using the calendar picker
     (Format: DD-MM-YYYY)
+
+<h2>1️⃣ Project Setup Instructions (How to Run the Project)</h2>
+
+## ⚙️ How to Setup and Run the Project:
+
+1. Install XAMPP on your system.
+2. Copy all project files into the `htdocs` folder.
+3. Import the `diploma_admission_system.sql` file into phpMyAdmin.
+4. Start Apache and MySQL from XAMPP control panel.
+5. Open your browser and go to:
+   http://localhost/your-folder-name/
+6. Now the system is ready to use.
+
+<h2>2️⃣ Technologies Used</h2>
+
+## 🛠️ Technologies Used:
+
+- PHP
+- MySQL Database
+- HTML / CSS
+- Bootstrap Framework
+- XAMPP Server
+
+<h2>3️⃣ Future Scope / Improvements (Optional but Professional)</h2>
+
+## 🚀 Future Improvements:
+
+- Online Admission Form submission.
+- Admin Dashboard for application management.
+- Email/SMS notification system.
+- Payment Gateway integration.
+- Multi-language support.
+- Responsive mobile-first UI.
+
+<h2>4️⃣ Credits / Author Section (Professional Touch)</h2>
+
+<h1>👨‍💻 Author:</h1>
+
+- Developed by <b>Adeel B N </b>
+- Diploma in Computer Science  
+- DACG Government Polytechnic, Chikkamagaluru  
+
+<h2>📧 Email: adeelbn.dev@gmail.com  
+🌐 GitHub: [Adeelbn-devs](https://github.com/Adeelbn-devs)  
+🔗 LinkedIn: [View My Profile](https://www.linkedin.com/in/adeel-b-n-853334369)</h2>
