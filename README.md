@@ -1,4 +1,4 @@
-🎓 Diploma Admission System – Project Overview
+<h1>🎓 Diploma Admission System – Project Overview</h1>
 
 A complete web-based Diploma Admission System, designed for streamlining the admission process in polytechnic colleges. Built using PHP, MySQL, HTML, CSS, Bootstrap, and designed to work within XAMPP environment.
 
@@ -583,4 +583,111 @@ This screen appears after successful seat allotment to a student. It confirms th
 <h4>🎬Action Button
 Back to Seat Allotment (click to return to allocation dashboard)</h4>
 
+<h2>📊 Seat Allotment Details</h2>
 
+<img width="1900" height="948" alt="24 Allotment_Seat_Details" src="https://github.com/user-attachments/assets/d8e1ef9a-d445-4f33-98d3-a5e63ac40812" />
+
+This dashboard provides comprehensive branch-wise seat allocation details with filtering capabilities. Administrators can track:
+
+• Seat distribution across branches
+• Student allocation patterns
+• Category-wise reservations
+• Historical allotment data
+
+<h3>Allocation Table</h3>
+
+|Column	              |Description	                |Example                |
+|---------------------|-----------------------------|-----------------------|
+|Day	                |Day of allotment	            |Tuesday                |
+|SSLC Register	      |Student SSLC number	        |111***                 |
+|Name	                |Student name	                |ADEEL                  |
+|Allocated Category	  |Reservation category	        |2B (General Merit)     |
+|Pass Pad	            |Fees paid	                  |4160                   |
+|Receipt Number	      |Payment reference	          |110                    |
+|Email	              |Student email	              |adbro77@gmail.com      |
+|Allotment Date	      |Date & time of allocation	  |2025-04-22 22:30:26    |
+
+<h3>📊Sample Data Example</h3>
+
+<h4>Computer Science (CS) Branch</h4>
+• Total Students: 3
+• Allotment Pattern:
+
+|Day  	|Register	    |Name	  |Category	  |Fees	  |Receipt	    |Date        |
+|-------|-------------|-------|-----------|-------|-------------|------------|
+|Tue	  |111***	      |ADEEL	|2b	        |4160	  |110	        |2025-04-22  |
+|Sun	  |9999*****  	|ABID	  |2b	        |4160	  |1102	        |2025-06-22  |
+|Sat	  |99999****	  |ABDUL  |2a	        |1260	  |64	          |2025-07-05  |
+|Tue	  |111***	      |ADEEL	|2b	        |4160	  |110	        |2025-04-22  |
+|Sun	  |9999*****  	|ABID	  |2b	        |4160	  |1102	        |2025-06-22  |
+|Sat	  |99999****	  |ABDUL  |2a	        |1260	  |64	          |2025-07-05  |
+|Tue	  |111***	      |ADEEL	|2b	        |4160	  |110	        |2025-04-22  |
+|Sun	  |9999*****  	|ABID	  |2b	        |4160	  |1102	        |2025-06-22  |
+|Sat	  |99999****	  |ABDUL  |2a	        |1260	  |64	          |2025-07-05  |
+
+<h4>Electronics & Electrical (E&E) Branch</h4>
+• Total Students: 3
+• Allotment Pattern:
+
+|Day  	|Register	    |Name	  |Category	  |Fees	  |Receipt	    |Date        |
+|-------|-------------|-------|-----------|-------|-------------|------------|
+|Tue	  |111***	      |ADEEL	|2b	        |4160	  |110	        |2025-04-22  |
+|Sun	  |9999*****  	|ABID	  |2b	        |4160	  |1102	        |2025-06-22  |
+|Sat	  |99999****	  |ABDUL  |2a	        |1260	  |64	          |2025-07-05  |
+|Tue	  |111***	      |ADEEL	|2b	        |4160	  |110	        |2025-04-22  |
+|Sun	  |9999*****  	|ABID	  |2b	        |4160	  |1102	        |2025-06-22  |
+|Sat	  |99999****	  |ABDUL  |2a	        |1260	  |64	          |2025-07-05  |
+|Tue	  |111***	      |ADEEL	|2b	        |4160	  |110	        |2025-04-22  |
+|Sun	  |9999*****  	|ABID	  |2b	        |4160	  |1102	        |2025-06-22  |
+|Sat	  |99999****	  |ABDUL  |2a	        |1260	  |64	          |2025-07-05  |
+
+<h4>💡 Insights & Observations</h4>
+• Category Distribution:
+• CS Branch: Only Category 20 (General Merit)
+• E&E Branch: Category 39 (Special Reservation)
+
+<h4>Student Patterns:</h4>
+• Student ABID (999*******) got upgraded in CS branch (fees reduced from 4160 to 1260)
+• Student AEEEL (11******) has seats in both CS and E&E branches
+
+<h4>Temporal Analysis:</h4>
+• Most allocations happen on weekends (Saturday/Sunday)
+• Evening time preference (after 5 PM)
+
+<h2>🪑 Current Seat Balances</h2>
+
+<img width="1899" height="950" alt="25 Current_Seat_Balances" src="https://github.com/user-attachments/assets/c8fb8f40-d597-45c7-8503-0d6b8af56804" />
+
+This interface displays real-time seat availability across academic branches, categorized by seat type. It helps administrators:
+
+• Track remaining seat quotas
+• Plan admission cutoff strategies
+• Monitor reservation category utilization
+
+<h3>📊 Current Seat Availability</h3>
+
+|Branch	  |Govt Seats	  |Donor Seats	    |BRO/SNQ Seats  |
+|---------|-------------|-----------------|---------------|
+|CS	      |27	          |2	              |5              |    
+|E&E	    |56	          |2	              |5              |
+|ME	      |69	          |2	              |6              |
+|EC	      |59	          |2	              |5              |
+|CE	      |63	          |2	              |5              |
+|AT	      |54	          |2	              |5              |
+
+<h3>💡 Key Insights</h3>
+
+1.Branch Popularity:
+• Computer Science (CS) has fewest government seats (27) → High demand
+• Mechanical (ME) has highest availability (69)
+
+2.Quota Distribution:
+• Management quota equal across branches (2 seats each)
+• BRO/SNQ seats consistent (5 seats), except ME (6)
+
+<h3>Utilization Patterns:</h3>
+pie showData  
+    title Seat Type Distribution  
+    "Government" : 328  
+    "Donor" : 12  
+    "BRO/SNQ" : 31  
