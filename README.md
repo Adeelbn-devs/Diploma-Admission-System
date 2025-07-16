@@ -4,7 +4,7 @@ A complete web-based Diploma Admission System, designed for streamlining the adm
 
 📑 Project Pages Overview
 
-1️⃣ 🏠 Homepage
+<h2>1️⃣ 🏠 Homepage</h2>
 
 <img width="1893" height="957" alt="1 Homepage" src="https://github.com/user-attachments/assets/dec4fab7-4e54-430f-a7e7-8844196c5b5c" />
 
@@ -22,7 +22,7 @@ It welcomes students with a clean UI and guides them to start their admission pr
 
 💡 The “Apply Now” button allows new students to begin their registration journey.
 
-2️⃣ 🧑‍🎓 Branch Details Page
+<h2>2️⃣ 🧑‍🎓 Branch Details Page</h2>
 
 <img width="1905" height="943" alt="2 Branch_details" src="https://github.com/user-attachments/assets/1772c3f2-2d63-4096-a8ba-1c9d7cfcab8b" />
 
@@ -40,7 +40,7 @@ This section allows students to view the list of diploma engineering branches av
 
 Each branch card contains a **"View Details"** button that, when clicked, provides further information about the selected branch such as intake capacity, eligibility, and curriculum overview.
 
-3️⃣ 🖥️ Branch Details – Computer Science
+<h2>3️⃣ 🖥️ Branch Details – Computer Science</h2>
 
 <img width="1899" height="941" alt="3 About_Computer_Science_Department" src="https://github.com/user-attachments/assets/d32fa4f0-b86b-4696-aece-06b3e4f22ad4" />
 
@@ -69,7 +69,7 @@ This section provides in-depth information about the selected department — her
 - “Go to Lecture Details” – View assigned lectures/faculty
 - “Go Back to Branches” – Return to main branch list
 
-<h1>4️⃣ 👨‍🏫 CSE Staff Details</h1>
+<h2>4️⃣ 👨‍🏫 CSE Staff Details</h2>
 
 <img width="937" height="909" alt="4 Computer_Science_Staff_Details" src="https://github.com/user-attachments/assets/4d310b00-612a-49c4-ab53-e8d948aa8f68" />
 
