@@ -687,7 +687,8 @@ This interface displays real-time seat availability across academic branches, ca
 
 <h3>Utilization Patterns:</h3>
   
-<img width="1950" height="1350" alt="pie diagram" src="https://github.com/user-attachments/assets/02d98642-7877-4ba8-8f03-7b8f2e6544bb" />
+<img width="2385" height="2058" alt="branch_allocation" src="https://github.com/user-attachments/assets/2cccdffc-3363-4409-9b6c-8d684832e8f2" />
+
 
 <h2>📋 All Students' Certificate Verification</h2>
 
